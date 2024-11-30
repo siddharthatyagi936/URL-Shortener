@@ -1,4 +1,3 @@
-# URL-Shortener
 URL Shortener
 A simple and efficient web application to shorten long URLs into easily shareable links. Built using modern web technologies, the tool ensures quick redirection and efficient management of shortened links.
 
