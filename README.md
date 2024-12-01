@@ -11,6 +11,6 @@ A simple and efficient web application to shorten long URLs into easily shareabl
   2. Backend: Node.js, Express.js.
   3. Database: MongoDB.
 # Usage
-  1.Enter a long URL in the input field.
-  2.Click on the "Shorten" button to generate a shortened URL.
-  3.Use the shortened link for quick redirection to the original URL.
+  1. Enter a long URL in the input field.
+  2. Click on the "Shorten" button to generate a shortened URL.
+  3. Use the shortened link for quick redirection to the original URL.
